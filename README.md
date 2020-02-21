@@ -1,6 +1,6 @@
-# Blank Typescript Project
+# Blank Typescript React Library
 
-Minimal boilerplate to start a new server side Typescript project.
+Minimal boilerplate to start a new server side Typescript React Library.
 
 ## Usage
 
@@ -10,16 +10,16 @@ Minimal boilerplate to start a new server side Typescript project.
 yarn
 ```
 
-### Run
+### Run Storybook
 
 ```
 npm start
 ```
 
-### Run with live reloading
+### Build Storybook to /docs
 
 ```
-npm run watch
+npm run build-storybook
 ```
 
 ### Build to /dist

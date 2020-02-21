@@ -1,11 +1,5 @@
-// Blank project
+import HelloWorld from "./components/HelloWorld";
+import Counter from "./components/Counter";
+import "./index.css";
 
-const sum = (a:number, b:number) => {
-    return a + b;
-}
-
-const mult = (a:number, b:number) => {
-    return a * b;
-}
-
-export { sum, mult };
+export { HelloWorld, Counter };
